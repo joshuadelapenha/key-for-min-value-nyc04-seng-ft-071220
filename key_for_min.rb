@@ -12,5 +12,5 @@ def key_for_min_value(hash)
       lowest_value = v
     end
   end
- lowest_key
+  lowest_key
 end
